@@ -27,9 +27,7 @@ public:
     void addProger(shared_ptr<StudentsFactory> factory);
     void showStudents();
 private:
-    vector<shared_ptr<Mathematic>> mathematics;
-    vector<shared_ptr<Physicist>> physicists;
-    vector<shared_ptr<Proger>> progers;
+    vector<shared_ptr<Student>> students;
 };
 
 

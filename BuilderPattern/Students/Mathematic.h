@@ -7,10 +7,12 @@
 
 #pragma once
 
-class Mathematic{
+#include "Student.h"
+
+class Mathematic:public Student{
 public:
-    virtual ~Mathematic() = default;
-    virtual void info() = 0;
+    Mathematic(shared_ptr<Type> type);
+    void info();
 };
 
 #endif //BUILDERPATTERN_MATHEMATIC_H

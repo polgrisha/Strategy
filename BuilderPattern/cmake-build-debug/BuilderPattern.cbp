@@ -160,6 +160,36 @@
 		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h">
 			<Option target="BuilderPattern"/>
 		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Types/RT.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
 		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/main.cpp">
 			<Option target="BuilderPattern"/>
 		</Unit>

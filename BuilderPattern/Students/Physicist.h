@@ -7,10 +7,11 @@
 
 #pragma once
 
-class Physicist {
+#include "Student.h"
+class Physicist:public Student {
 public:
-    virtual ~Physicist() = default;
-    virtual void info() = 0;
+    Physicist(shared_ptr<Type> type);
+    void info();
 };
 
 

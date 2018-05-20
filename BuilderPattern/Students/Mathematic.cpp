@@ -3,3 +3,16 @@
 //
 
 #include "Mathematic.h"
+
+Mathematic::Mathematic(shared_ptr<Type> type) {
+    studentType = type;
+}
+
+void Mathematic::info() {
+    studentType -> introduce();
+    cout << "Mathematic" << " ";
+    cout << "cost " << cost << " ";
+    cout << "knowledge " << knowledge << " ";
+    cout << "stamina " << stamina << " ";
+    cout << "laziness " << laziness << " " << "\n";
+}

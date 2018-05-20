@@ -53,6 +53,12 @@ iostream
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
 ../Students/Proger.h
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+../Types/RT.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+../Types/Faki.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+../Types/Type.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 
 /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.cpp
 iostream
@@ -141,22 +147,82 @@ Mathematic.h
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
 
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
+Student.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
 
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.cpp
 Physicist.h
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
 
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
+Student.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
 
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.cpp
 Proger.h
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
 
 /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+Student.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.cpp
+Squad.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.h
+
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.h
+Student.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+vector
+-
+../Factories/StudentsFactory.h
+/Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.h
+Mathematic.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
+Physicist.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
+Proger.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.cpp
+Student.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+../Types/Type.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+iostream
+-
+
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.cpp
+Faki.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+Type.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+iostream
+-
+
+/Users/grigorij/CLionProjects/BuilderPattern/Types/RT.cpp
+RT.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+
+/Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+Type.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+iostream
+-
+
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.cpp
+Type.h
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+
+/Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 
 /Users/grigorij/CLionProjects/BuilderPattern/main.cpp
-Students.h
-/Users/grigorij/CLionProjects/BuilderPattern/Students.h
+Students/Squad.h
+/Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.h
 Factories/FakiStudentsFactory.h
 /Users/grigorij/CLionProjects/BuilderPattern/Factories/FakiStudentsFactory.h
 Factories/RtStudentsFactory.h

@@ -3,3 +3,15 @@
 //
 
 #include "Physicist.h"
+
+Physicist::Physicist(shared_ptr<Type> type) {
+    studentType = type;
+}
+
+void Physicist::info() {
+    studentType -> introduce();
+    cout << "Physicist";
+    cout << "knowledge " << knowledge << " ";
+    cout << "stamina " << stamina << " ";
+    cout << "laziness " << laziness << " " << "\n";
+}

@@ -7,10 +7,12 @@
 
 #pragma once
 
-class Proger {
+#include "Student.h"
+
+class Proger:public Student {
 public:
-    virtual ~Proger() = default;
-    virtual void info() = 0;
+    Proger (shared_ptr<Type> type);
+    void info();
 };
 
 

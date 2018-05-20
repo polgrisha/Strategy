@@ -474,6 +474,141 @@ Students/Proger.cpp.s:
 	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.s
 .PHONY : Students/Proger.cpp.s
 
+Students/Squad.o: Students/Squad.cpp.o
+
+.PHONY : Students/Squad.o
+
+# target to build an object file
+Students/Squad.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o
+.PHONY : Students/Squad.cpp.o
+
+Students/Squad.i: Students/Squad.cpp.i
+
+.PHONY : Students/Squad.i
+
+# target to preprocess a source file
+Students/Squad.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.i
+.PHONY : Students/Squad.cpp.i
+
+Students/Squad.s: Students/Squad.cpp.s
+
+.PHONY : Students/Squad.s
+
+# target to generate assembly for a file
+Students/Squad.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.s
+.PHONY : Students/Squad.cpp.s
+
+Students/Student.o: Students/Student.cpp.o
+
+.PHONY : Students/Student.o
+
+# target to build an object file
+Students/Student.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o
+.PHONY : Students/Student.cpp.o
+
+Students/Student.i: Students/Student.cpp.i
+
+.PHONY : Students/Student.i
+
+# target to preprocess a source file
+Students/Student.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Students/Student.cpp.i
+.PHONY : Students/Student.cpp.i
+
+Students/Student.s: Students/Student.cpp.s
+
+.PHONY : Students/Student.s
+
+# target to generate assembly for a file
+Students/Student.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Students/Student.cpp.s
+.PHONY : Students/Student.cpp.s
+
+Types/Faki.o: Types/Faki.cpp.o
+
+.PHONY : Types/Faki.o
+
+# target to build an object file
+Types/Faki.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o
+.PHONY : Types/Faki.cpp.o
+
+Types/Faki.i: Types/Faki.cpp.i
+
+.PHONY : Types/Faki.i
+
+# target to preprocess a source file
+Types/Faki.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.i
+.PHONY : Types/Faki.cpp.i
+
+Types/Faki.s: Types/Faki.cpp.s
+
+.PHONY : Types/Faki.s
+
+# target to generate assembly for a file
+Types/Faki.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.s
+.PHONY : Types/Faki.cpp.s
+
+Types/RT.o: Types/RT.cpp.o
+
+.PHONY : Types/RT.o
+
+# target to build an object file
+Types/RT.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o
+.PHONY : Types/RT.cpp.o
+
+Types/RT.i: Types/RT.cpp.i
+
+.PHONY : Types/RT.i
+
+# target to preprocess a source file
+Types/RT.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/RT.cpp.i
+.PHONY : Types/RT.cpp.i
+
+Types/RT.s: Types/RT.cpp.s
+
+.PHONY : Types/RT.s
+
+# target to generate assembly for a file
+Types/RT.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/RT.cpp.s
+.PHONY : Types/RT.cpp.s
+
+Types/Type.o: Types/Type.cpp.o
+
+.PHONY : Types/Type.o
+
+# target to build an object file
+Types/Type.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o
+.PHONY : Types/Type.cpp.o
+
+Types/Type.i: Types/Type.cpp.i
+
+.PHONY : Types/Type.i
+
+# target to preprocess a source file
+Types/Type.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/Type.cpp.i
+.PHONY : Types/Type.cpp.i
+
+Types/Type.s: Types/Type.cpp.s
+
+.PHONY : Types/Type.s
+
+# target to generate assembly for a file
+Types/Type.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Types/Type.cpp.s
+.PHONY : Types/Type.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -549,6 +684,21 @@ help:
 	@echo "... Students/Proger.o"
 	@echo "... Students/Proger.i"
 	@echo "... Students/Proger.s"
+	@echo "... Students/Squad.o"
+	@echo "... Students/Squad.i"
+	@echo "... Students/Squad.s"
+	@echo "... Students/Student.o"
+	@echo "... Students/Student.i"
+	@echo "... Students/Student.s"
+	@echo "... Types/Faki.o"
+	@echo "... Types/Faki.i"
+	@echo "... Types/Faki.s"
+	@echo "... Types/RT.o"
+	@echo "... Types/RT.i"
+	@echo "... Types/RT.s"
+	@echo "... Types/Type.o"
+	@echo "... Types/Type.i"
+	@echo "... Types/Type.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

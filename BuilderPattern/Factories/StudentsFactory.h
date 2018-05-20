@@ -11,15 +11,18 @@
 #include "../Students/Mathematic.h"
 #include "../Students/Physicist.h"
 #include "../Students/Proger.h"
+#include "../Types/RT.h"
+#include "../Types/Faki.h"
+#include "../Types/Type.h"
 
 using std::shared_ptr;
 
 
 class StudentsFactory {
 public:
-    virtual shared_ptr<Mathematic> createMathematic() = 0;
-    virtual shared_ptr<Proger> createProger() = 0;
-    virtual shared_ptr<Physicist> createPhysicist() = 0;
+    virtual shared_ptr<Student> createMathematic() = 0;
+    virtual shared_ptr<Student> createProger() = 0;
+    virtual shared_ptr<Student> createPhysicist() = 0;
 };
 
 

@@ -4,15 +4,18 @@
 
 #include "FakiStudentsFactory.h"
 
-shared_ptr<Mathematic> FakiStudentsFactory::createMathematic(){
-    shared_ptr<FakiMathematic> newFakiMathematic(new FakiMathematic);
+shared_ptr<Student> FakiStudentsFactory::createMathematic(){
+    shared_ptr<Type> type(new Faki);
+    shared_ptr<Student> newFakiMathematic(new Mathematic(type));
     return newFakiMathematic;
 }
-shared_ptr<Physicist> FakiStudentsFactory::createPhysicist(){
-    shared_ptr<FakiPhysicist> newFakiPhysicist(new FakiPhysicist);
+shared_ptr<Student> FakiStudentsFactory::createPhysicist(){
+    shared_ptr<Type> type(new Faki);
+    shared_ptr<Student> newFakiPhysicist(new Physicist(type));
     return newFakiPhysicist;
 }
-shared_ptr<Proger> FakiStudentsFactory::createProger(){
-    shared_ptr<FakiProger> newFakiProger(new FakiProger);
+shared_ptr<Student> FakiStudentsFactory::createProger(){
+    shared_ptr<Type> type(new Faki);
+    shared_ptr<Student> newFakiProger(new Proger(type));
     return newFakiProger;
 }

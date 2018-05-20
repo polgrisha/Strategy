@@ -13,6 +13,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o"
   "CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o"
   "CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o"
   "BuilderPattern.pdb"
   "BuilderPattern"
 )

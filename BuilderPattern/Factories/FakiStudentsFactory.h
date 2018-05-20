@@ -18,9 +18,10 @@ using std::shared_ptr;
 
 
 class FakiStudentsFactory: public StudentsFactory {
-    shared_ptr<Mathematic> createMathematic();
-    shared_ptr<Proger> createProger();
-    shared_ptr<Physicist> createPhysicist();
+public:
+    shared_ptr<Student> createMathematic();
+    shared_ptr<Student> createProger();
+    shared_ptr<Student> createPhysicist();
 };
 
 

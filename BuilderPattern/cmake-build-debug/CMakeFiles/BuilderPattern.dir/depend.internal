@@ -11,6 +11,10 @@ CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Factories/RtStudentsFactory.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/Factories/RtStudentsFactory.h
@@ -21,36 +25,56 @@ CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiPhysicist.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiPhysicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiProger.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiProger.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/Students.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students.cpp
@@ -58,15 +82,51 @@ CMakeFiles/BuilderPattern.dir/Students.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/Students/Mathematic.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/Students/Physicist.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.cpp
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o
+ /Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.cpp
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.cpp
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.cpp
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.cpp
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
+CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.cpp
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
 CMakeFiles/BuilderPattern.dir/main.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/Factories/FakiStudentsFactory.h
  /Users/grigorij/CLionProjects/BuilderPattern/Factories/RtStudentsFactory.h
@@ -77,8 +137,12 @@ CMakeFiles/BuilderPattern.dir/main.cpp.o
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.h
- /Users/grigorij/CLionProjects/BuilderPattern/Students.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.h
  /Users/grigorij/CLionProjects/BuilderPattern/Students/Proger.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.h
+ /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.h
  /Users/grigorij/CLionProjects/BuilderPattern/main.cpp
