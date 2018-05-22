@@ -153,81 +153,9 @@ CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.o.provides: CMakeFiles/Builder
 CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.o
 
 
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o: ../FakiStudents/FakiMathematic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.cpp
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.cpp > CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.i
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.cpp -o CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.s
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.requires:
-
-.PHONY : CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.requires
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.provides: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.provides.build
-.PHONY : CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.provides
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o
-
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o: ../FakiStudents/FakiPhysicist.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiPhysicist.cpp
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiPhysicist.cpp > CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.i
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiPhysicist.cpp -o CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.s
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.requires:
-
-.PHONY : CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.requires
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.provides: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.provides.build
-.PHONY : CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.provides
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o
-
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o: ../FakiStudents/FakiProger.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiProger.cpp
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiProger.cpp > CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.i
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiProger.cpp -o CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.s
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.requires:
-
-.PHONY : CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.requires
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.provides: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.provides.build
-.PHONY : CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.provides
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o
-
-
 CMakeFiles/BuilderPattern.dir/Students.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Students.cpp.o: ../Students.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/BuilderPattern.dir/Students.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/BuilderPattern.dir/Students.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Students.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Students.cpp
 
 CMakeFiles/BuilderPattern.dir/Students.cpp.i: cmake_force
@@ -251,7 +179,7 @@ CMakeFiles/BuilderPattern.dir/Students.cpp.o.provides.build: CMakeFiles/BuilderP
 
 CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o: ../Factories/StudentsFactory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.cpp
 
 CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.i: cmake_force
@@ -275,7 +203,7 @@ CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o.provides.build: CM
 
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Factories/FakiStudentsFactory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Factories/FakiStudentsFactory.cpp
 
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.i: cmake_force
@@ -299,7 +227,7 @@ CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o.provides.build
 
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../Factories/RtStudentsFactory.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Factories/RtStudentsFactory.cpp
 
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.i: cmake_force
@@ -321,81 +249,9 @@ CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o.provides: CMakeF
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o
 
 
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o: ../RtStudents/RtMathematic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.cpp
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.cpp > CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.i
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.cpp -o CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.s
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.requires:
-
-.PHONY : CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.requires
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.provides: CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.provides.build
-.PHONY : CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.provides
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o
-
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o: ../RtStudents/RtPhysicist.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.cpp
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.cpp > CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.i
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.cpp -o CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.s
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.requires:
-
-.PHONY : CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.requires
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.provides: CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.provides.build
-.PHONY : CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.provides
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o
-
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o: ../RtStudents/RtProger.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.cpp
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.cpp > CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.i
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.cpp -o CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.s
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.requires:
-
-.PHONY : CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.requires
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.provides: CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.requires
-	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.provides.build
-.PHONY : CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.provides
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o
-
-
 CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o: ../Students/Student.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Students/Student.cpp
 
 CMakeFiles/BuilderPattern.dir/Students/Student.cpp.i: cmake_force
@@ -419,7 +275,7 @@ CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o: ../Types/Type.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Types/Type.cpp
 
 CMakeFiles/BuilderPattern.dir/Types/Type.cpp.i: cmake_force
@@ -443,7 +299,7 @@ CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o.provides.build: CMakeFiles/Builde
 
 CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o: ../Types/RT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Types/RT.cpp
 
 CMakeFiles/BuilderPattern.dir/Types/RT.cpp.i: cmake_force
@@ -467,7 +323,7 @@ CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o.provides.build: CMakeFiles/BuilderP
 
 CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o: ../Types/Faki.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Types/Faki.cpp
 
 CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.i: cmake_force
@@ -491,7 +347,7 @@ CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o.provides.build: CMakeFiles/Builde
 
 CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
 CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o: ../Students/Squad.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Students/Squad.cpp
 
 CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.i: cmake_force
@@ -519,16 +375,10 @@ BuilderPattern_OBJECTS = \
 "CMakeFiles/BuilderPattern.dir/Students/Mathematic.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Students/Physicist.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.o" \
-"CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o" \
-"CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o" \
-"CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Students.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o" \
-"CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o" \
-"CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o" \
-"CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o" \
@@ -542,16 +392,10 @@ BuilderPattern: CMakeFiles/BuilderPattern.dir/main.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Students/Mathematic.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Students/Physicist.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.o
-BuilderPattern: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o
-BuilderPattern: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o
-BuilderPattern: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Students.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o
-BuilderPattern: CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o
-BuilderPattern: CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o
-BuilderPattern: CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o
@@ -559,7 +403,7 @@ BuilderPattern: CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/build.make
 BuilderPattern: CMakeFiles/BuilderPattern.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable BuilderPattern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable BuilderPattern"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BuilderPattern.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -571,16 +415,10 @@ CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/main.cpp.o
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Students/Mathematic.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Students/Physicist.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Students/Proger.cpp.o.requires
-CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o.requires
-CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o.requires
-CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Students.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o.requires
-CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o.requires
-CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o.requires
-CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Students/Student.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o.requires

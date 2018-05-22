@@ -9,9 +9,7 @@
 #include <memory>
 #include <iostream>
 #include "StudentsFactory.h"
-#include "../FakiStudents/FakiMathematic.h"
-#include "../FakiStudents/FakiPhysicist.h"
-#include "../FakiStudents/FakiProger.h"
+
 
 
 using std::shared_ptr;

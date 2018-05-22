@@ -6,6 +6,9 @@
 
 Mathematic::Mathematic(shared_ptr<Type> type) {
     studentType = type;
+    laziness += type -> addLaziness();
+    knowledge += type -> addKnowledge();
+    stamina += type -> addStamina();
 }
 
 void Mathematic::info() {

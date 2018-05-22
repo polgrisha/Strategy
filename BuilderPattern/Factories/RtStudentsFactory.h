@@ -7,9 +7,7 @@
 
 #pragma once
 #include "StudentsFactory.h"
-#include "../RtStudents/RtPhysicist.h"
-#include "../RtStudents/RtMathematic.h"
-#include "../RtStudents/RtProger.h"
+
 
 class RtStudentsFactory: public StudentsFactory{
 public:

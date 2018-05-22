@@ -100,42 +100,6 @@
 		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.h">
 			<Option target="BuilderPattern"/>
 		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.cpp">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiMathematic.h">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiPhysicist.cpp">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiPhysicist.h">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiProger.cpp">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/FakiStudents/FakiProger.h">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.cpp">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtMathematic.h">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.cpp">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtPhysicist.h">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.cpp">
-			<Option target="BuilderPattern"/>
-		</Unit>
-		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/RtStudents/RtProger.h">
-			<Option target="BuilderPattern"/>
-		</Unit>
 		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Students.cpp">
 			<Option target="BuilderPattern"/>
 		</Unit>

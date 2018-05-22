@@ -12,6 +12,10 @@ class Physicist:public Student {
 public:
     Physicist(shared_ptr<Type> type);
     void info();
+private:
+    int knowledge = 60;
+    int stamina = 80;
+    int laziness = 50;
 };
 
 

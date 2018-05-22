@@ -5,7 +5,7 @@
 #ifndef BUILDERPATTERN_SQUAD_H
 #define BUILDERPATTERN_SQUAD_H
 
-#pragma once;
+#pragma once
 
 #include "Student.h"
 #include <vector>
@@ -23,8 +23,7 @@ public:
     void addProger(shared_ptr<StudentsFactory> factory);
     void add(shared_ptr<Student> currSquad);
     void info();
-    int size();
-    shared_ptr<Student> operator[](int number);
+    void delLast();
 private:
     vector<shared_ptr<Student>> children;
 };

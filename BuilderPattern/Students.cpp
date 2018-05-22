@@ -18,7 +18,7 @@ void Students::addProger(shared_ptr<StudentsFactory> factory) {
 
 void Students::showStudents() {
     for(int i = 0;i < students.size(); i++) {
-        cout << "Student" << cout << i
+        cout << "Student " << i;
         students[i] -> info();
     }
 }

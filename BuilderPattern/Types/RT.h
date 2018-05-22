@@ -13,7 +13,11 @@
 using std::cout;
 
 class RT:public Type {
-    void introduce();
+public:
+    void introduce() override ;
+    int addKnowledge() override ;
+    int addStamina() override;
+    int addLaziness() override;
 };
 
 

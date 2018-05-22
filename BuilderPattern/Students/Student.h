@@ -12,17 +12,17 @@
 
 using std::cout;
 using std::shared_ptr;
+using std::runtime_error;
 
 class Student {
 public:
-    //Student(Type type);
-    virtual void info() = 0;
-    int showCost();
+    Student() = default;
+    virtual void info();
+    virtual int showCost();
+    virtual void add(shared_ptr<Student> student);
+    virtual void delLast();
     virtual ~Student() = default;
 protected:
-    int knowledge = 50;
-    int stamina = 50;
-    int laziness = 30;
     int cost = 30;
     shared_ptr<Type> studentType;
 };

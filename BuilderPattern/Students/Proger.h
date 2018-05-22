@@ -13,6 +13,10 @@ class Proger:public Student {
 public:
     Proger (shared_ptr<Type> type);
     void info();
+private:
+    int knowledge = 80;
+    int stamina = 80;
+    int laziness = 100;
 };
 
 

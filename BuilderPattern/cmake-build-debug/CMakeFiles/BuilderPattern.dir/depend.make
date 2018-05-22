@@ -4,9 +4,6 @@
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Factories/FakiStudentsFactory.cpp
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Factories/FakiStudentsFactory.h
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Factories/StudentsFactory.h
-CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../FakiStudents/FakiMathematic.h
-CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../FakiStudents/FakiPhysicist.h
-CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../FakiStudents/FakiProger.h
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Students/Mathematic.h
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Students/Physicist.h
 CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Students/Proger.h
@@ -18,9 +15,6 @@ CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o: ../Types/Type
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../Factories/RtStudentsFactory.cpp
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../Factories/RtStudentsFactory.h
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../Factories/StudentsFactory.h
-CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../RtStudents/RtMathematic.h
-CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../RtStudents/RtPhysicist.h
-CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../RtStudents/RtProger.h
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../Students/Mathematic.h
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../Students/Physicist.h
 CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o: ../Students/Proger.h
@@ -38,42 +32,6 @@ CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o: ../Students/Stude
 CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o: ../Types/Faki.h
 CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o: ../Types/RT.h
 CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o: ../Types/Type.h
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o: ../FakiStudents/FakiMathematic.cpp
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o: ../FakiStudents/FakiMathematic.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o: ../Students/Mathematic.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o: ../Students/Student.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiMathematic.cpp.o: ../Types/Type.h
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o: ../FakiStudents/FakiPhysicist.cpp
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o: ../FakiStudents/FakiPhysicist.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o: ../Students/Physicist.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o: ../Students/Student.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiPhysicist.cpp.o: ../Types/Type.h
-
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o: ../FakiStudents/FakiProger.cpp
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o: ../FakiStudents/FakiProger.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o: ../Students/Proger.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o: ../Students/Student.h
-CMakeFiles/BuilderPattern.dir/FakiStudents/FakiProger.cpp.o: ../Types/Type.h
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o: ../RtStudents/RtMathematic.cpp
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o: ../RtStudents/RtMathematic.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o: ../Students/Mathematic.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o: ../Students/Student.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtMathematic.cpp.o: ../Types/Type.h
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o: ../RtStudents/RtPhysicist.cpp
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o: ../RtStudents/RtPhysicist.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o: ../Students/Physicist.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o: ../Students/Student.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtPhysicist.cpp.o: ../Types/Type.h
-
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o: ../RtStudents/RtProger.cpp
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o: ../RtStudents/RtProger.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o: ../Students/Proger.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o: ../Students/Student.h
-CMakeFiles/BuilderPattern.dir/RtStudents/RtProger.cpp.o: ../Types/Type.h
 
 CMakeFiles/BuilderPattern.dir/Students.cpp.o: ../Factories/StudentsFactory.h
 CMakeFiles/BuilderPattern.dir/Students.cpp.o: ../Students.cpp
@@ -130,12 +88,6 @@ CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o: ../Types/Type.h
 CMakeFiles/BuilderPattern.dir/main.cpp.o: ../Factories/FakiStudentsFactory.h
 CMakeFiles/BuilderPattern.dir/main.cpp.o: ../Factories/RtStudentsFactory.h
 CMakeFiles/BuilderPattern.dir/main.cpp.o: ../Factories/StudentsFactory.h
-CMakeFiles/BuilderPattern.dir/main.cpp.o: ../FakiStudents/FakiMathematic.h
-CMakeFiles/BuilderPattern.dir/main.cpp.o: ../FakiStudents/FakiPhysicist.h
-CMakeFiles/BuilderPattern.dir/main.cpp.o: ../FakiStudents/FakiProger.h
-CMakeFiles/BuilderPattern.dir/main.cpp.o: ../RtStudents/RtMathematic.h
-CMakeFiles/BuilderPattern.dir/main.cpp.o: ../RtStudents/RtPhysicist.h
-CMakeFiles/BuilderPattern.dir/main.cpp.o: ../RtStudents/RtProger.h
 CMakeFiles/BuilderPattern.dir/main.cpp.o: ../Students/Mathematic.h
 CMakeFiles/BuilderPattern.dir/main.cpp.o: ../Students/Physicist.h
 CMakeFiles/BuilderPattern.dir/main.cpp.o: ../Students/Proger.h
