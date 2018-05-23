@@ -4,9 +4,15 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/grigorij/CLionProjects/BuilderPattern/BackUp/ArmySnapshot.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o"
+  "/Users/grigorij/CLionProjects/BuilderPattern/BackUp/UnitSnapshot.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o"
+  "/Users/grigorij/CLionProjects/BuilderPattern/Battle/Battle.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o"
   "/Users/grigorij/CLionProjects/BuilderPattern/Factories/FakiStudentsFactory.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/Factories/FakiStudentsFactory.cpp.o"
   "/Users/grigorij/CLionProjects/BuilderPattern/Factories/RtStudentsFactory.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/Factories/RtStudentsFactory.cpp.o"
   "/Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.o"
+  "/Users/grigorij/CLionProjects/BuilderPattern/State/DeathState.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o"
+  "/Users/grigorij/CLionProjects/BuilderPattern/State/PeaceState.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o"
+  "/Users/grigorij/CLionProjects/BuilderPattern/State/State.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/State/State.cpp.o"
   "/Users/grigorij/CLionProjects/BuilderPattern/Students.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/Students.cpp.o"
   "/Users/grigorij/CLionProjects/BuilderPattern/Students/Mathematic.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/Students/Mathematic.cpp.o"
   "/Users/grigorij/CLionProjects/BuilderPattern/Students/Physicist.cpp" "/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles/BuilderPattern.dir/Students/Physicist.cpp.o"

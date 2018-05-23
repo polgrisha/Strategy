@@ -6,6 +6,9 @@
 
 Mathematic::Mathematic(shared_ptr<Type> type) {
     studentType = type;
+    knowledge = 100;
+    laziness = 100;
+    stamina = 100;
     laziness += type -> addLaziness();
     knowledge += type -> addKnowledge();
     stamina += type -> addStamina();
@@ -14,8 +17,5 @@ Mathematic::Mathematic(shared_ptr<Type> type) {
 void Mathematic::info() {
     studentType -> introduce();
     cout << "Mathematic" << " ";
-    cout << "cost " << cost << " ";
-    cout << "knowledge " << knowledge << " ";
-    cout << "stamina " << stamina << " ";
-    cout << "laziness " << laziness << " " << "\n";
+    state -> info();
 }

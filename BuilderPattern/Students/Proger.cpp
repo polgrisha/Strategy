@@ -5,6 +5,9 @@
 #include "Proger.h"
 
 Proger::Proger(shared_ptr<Type> type) {
+    knowledge = 80;
+    stamina = 80;
+    laziness = 100;
     studentType = type;
     laziness += type -> addLaziness();
     knowledge += type -> addKnowledge();
@@ -14,8 +17,5 @@ Proger::Proger(shared_ptr<Type> type) {
 void Proger::info() {
     studentType -> introduce();
     cout << "Proger ";
-    cout << "cost " << cost << " ";
-    cout << "knowledge " << knowledge << " ";
-    cout << "stamina " << stamina << " ";
-    cout << "laziness " << laziness << " " << "\n";
+    state -> info();
 }

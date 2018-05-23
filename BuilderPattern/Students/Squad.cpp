@@ -19,3 +19,15 @@ void Squad::delLast() {
         children.pop_back();
     }
 }
+
+void Squad::store(shared_ptr<ArmySnapshot> armySnapshot) {
+    for (auto child : children) {
+        child -> store(armySnapshot);
+    }
+}
+
+void Squad::dump() {
+    for (auto child : children) {
+        child -> dump();
+    }
+}

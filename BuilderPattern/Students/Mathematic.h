@@ -12,13 +12,7 @@
 class Mathematic:public Student{
 public:
     Mathematic(shared_ptr<Type> type);
-    void info();
-    void add(shared_ptr<Student> student){};
-    void delLast(){};
-private:
-    int knowledge = 100;
-    int stamina = 20;
-    int laziness = 60;
+    void info() override;
 };
 
 #endif //BUILDERPATTERN_MATHEMATIC_H

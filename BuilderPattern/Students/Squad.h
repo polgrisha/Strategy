@@ -18,12 +18,11 @@ using std::vector;
 
 class Squad: public Student {
 public:
-    void addMathematic(shared_ptr<StudentsFactory> factory);
-    void addPhysicist(shared_ptr<StudentsFactory> factory);
-    void addProger(shared_ptr<StudentsFactory> factory);
-    void add(shared_ptr<Student> currSquad);
-    void info();
-    void delLast();
+    void store(shared_ptr<ArmySnapshot> armySnapshot) override;
+    void dump() override;
+    void add(shared_ptr<Student> currSquad) override;
+    void info() override;
+    void delLast() override;
 private:
     vector<shared_ptr<Student>> children;
 };

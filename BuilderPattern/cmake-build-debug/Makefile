@@ -123,6 +123,87 @@ BuilderPattern/fast:
 	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/build
 .PHONY : BuilderPattern/fast
 
+BackUp/ArmySnapshot.o: BackUp/ArmySnapshot.cpp.o
+
+.PHONY : BackUp/ArmySnapshot.o
+
+# target to build an object file
+BackUp/ArmySnapshot.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o
+.PHONY : BackUp/ArmySnapshot.cpp.o
+
+BackUp/ArmySnapshot.i: BackUp/ArmySnapshot.cpp.i
+
+.PHONY : BackUp/ArmySnapshot.i
+
+# target to preprocess a source file
+BackUp/ArmySnapshot.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.i
+.PHONY : BackUp/ArmySnapshot.cpp.i
+
+BackUp/ArmySnapshot.s: BackUp/ArmySnapshot.cpp.s
+
+.PHONY : BackUp/ArmySnapshot.s
+
+# target to generate assembly for a file
+BackUp/ArmySnapshot.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.s
+.PHONY : BackUp/ArmySnapshot.cpp.s
+
+BackUp/UnitSnapshot.o: BackUp/UnitSnapshot.cpp.o
+
+.PHONY : BackUp/UnitSnapshot.o
+
+# target to build an object file
+BackUp/UnitSnapshot.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o
+.PHONY : BackUp/UnitSnapshot.cpp.o
+
+BackUp/UnitSnapshot.i: BackUp/UnitSnapshot.cpp.i
+
+.PHONY : BackUp/UnitSnapshot.i
+
+# target to preprocess a source file
+BackUp/UnitSnapshot.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.i
+.PHONY : BackUp/UnitSnapshot.cpp.i
+
+BackUp/UnitSnapshot.s: BackUp/UnitSnapshot.cpp.s
+
+.PHONY : BackUp/UnitSnapshot.s
+
+# target to generate assembly for a file
+BackUp/UnitSnapshot.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.s
+.PHONY : BackUp/UnitSnapshot.cpp.s
+
+Battle/Battle.o: Battle/Battle.cpp.o
+
+.PHONY : Battle/Battle.o
+
+# target to build an object file
+Battle/Battle.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o
+.PHONY : Battle/Battle.cpp.o
+
+Battle/Battle.i: Battle/Battle.cpp.i
+
+.PHONY : Battle/Battle.i
+
+# target to preprocess a source file
+Battle/Battle.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.i
+.PHONY : Battle/Battle.cpp.i
+
+Battle/Battle.s: Battle/Battle.cpp.s
+
+.PHONY : Battle/Battle.s
+
+# target to generate assembly for a file
+Battle/Battle.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.s
+.PHONY : Battle/Battle.cpp.s
+
 Factories/FakiStudentsFactory.o: Factories/FakiStudentsFactory.cpp.o
 
 .PHONY : Factories/FakiStudentsFactory.o
@@ -203,6 +284,87 @@ Factories/StudentsFactory.s: Factories/StudentsFactory.cpp.s
 Factories/StudentsFactory.cpp.s:
 	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Factories/StudentsFactory.cpp.s
 .PHONY : Factories/StudentsFactory.cpp.s
+
+State/DeathState.o: State/DeathState.cpp.o
+
+.PHONY : State/DeathState.o
+
+# target to build an object file
+State/DeathState.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o
+.PHONY : State/DeathState.cpp.o
+
+State/DeathState.i: State/DeathState.cpp.i
+
+.PHONY : State/DeathState.i
+
+# target to preprocess a source file
+State/DeathState.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.i
+.PHONY : State/DeathState.cpp.i
+
+State/DeathState.s: State/DeathState.cpp.s
+
+.PHONY : State/DeathState.s
+
+# target to generate assembly for a file
+State/DeathState.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.s
+.PHONY : State/DeathState.cpp.s
+
+State/PeaceState.o: State/PeaceState.cpp.o
+
+.PHONY : State/PeaceState.o
+
+# target to build an object file
+State/PeaceState.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o
+.PHONY : State/PeaceState.cpp.o
+
+State/PeaceState.i: State/PeaceState.cpp.i
+
+.PHONY : State/PeaceState.i
+
+# target to preprocess a source file
+State/PeaceState.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.i
+.PHONY : State/PeaceState.cpp.i
+
+State/PeaceState.s: State/PeaceState.cpp.s
+
+.PHONY : State/PeaceState.s
+
+# target to generate assembly for a file
+State/PeaceState.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.s
+.PHONY : State/PeaceState.cpp.s
+
+State/State.o: State/State.cpp.o
+
+.PHONY : State/State.o
+
+# target to build an object file
+State/State.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/State.cpp.o
+.PHONY : State/State.cpp.o
+
+State/State.i: State/State.cpp.i
+
+.PHONY : State/State.i
+
+# target to preprocess a source file
+State/State.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/State.cpp.i
+.PHONY : State/State.cpp.i
+
+State/State.s: State/State.cpp.s
+
+.PHONY : State/State.s
+
+# target to generate assembly for a file
+State/State.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/State.cpp.s
+.PHONY : State/State.cpp.s
 
 Students.o: Students.cpp.o
 
@@ -483,6 +645,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... BuilderPattern"
+	@echo "... BackUp/ArmySnapshot.o"
+	@echo "... BackUp/ArmySnapshot.i"
+	@echo "... BackUp/ArmySnapshot.s"
+	@echo "... BackUp/UnitSnapshot.o"
+	@echo "... BackUp/UnitSnapshot.i"
+	@echo "... BackUp/UnitSnapshot.s"
+	@echo "... Battle/Battle.o"
+	@echo "... Battle/Battle.i"
+	@echo "... Battle/Battle.s"
 	@echo "... Factories/FakiStudentsFactory.o"
 	@echo "... Factories/FakiStudentsFactory.i"
 	@echo "... Factories/FakiStudentsFactory.s"
@@ -492,6 +663,15 @@ help:
 	@echo "... Factories/StudentsFactory.o"
 	@echo "... Factories/StudentsFactory.i"
 	@echo "... Factories/StudentsFactory.s"
+	@echo "... State/DeathState.o"
+	@echo "... State/DeathState.i"
+	@echo "... State/DeathState.s"
+	@echo "... State/PeaceState.o"
+	@echo "... State/PeaceState.i"
+	@echo "... State/PeaceState.s"
+	@echo "... State/State.o"
+	@echo "... State/State.i"
+	@echo "... State/State.s"
 	@echo "... Students.o"
 	@echo "... Students.i"
 	@echo "... Students.s"

@@ -12,6 +12,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o"
   "CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o"
   "CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/State/State.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o"
+  "CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o"
   "BuilderPattern.pdb"
   "BuilderPattern"
 )

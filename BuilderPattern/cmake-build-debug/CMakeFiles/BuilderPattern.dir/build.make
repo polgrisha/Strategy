@@ -369,6 +369,150 @@ CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o.provides: CMakeFiles/BuilderP
 CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o
 
 
+CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
+CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o: ../BackUp/UnitSnapshot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/BackUp/UnitSnapshot.cpp
+
+CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/BackUp/UnitSnapshot.cpp > CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.i
+
+CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/BackUp/UnitSnapshot.cpp -o CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.s
+
+CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.requires:
+
+.PHONY : CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.requires
+
+CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.provides: CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.provides.build
+.PHONY : CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.provides
+
+CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o
+
+
+CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
+CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o: ../BackUp/ArmySnapshot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/BackUp/ArmySnapshot.cpp
+
+CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/BackUp/ArmySnapshot.cpp > CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.i
+
+CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/BackUp/ArmySnapshot.cpp -o CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.s
+
+CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.requires:
+
+.PHONY : CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.requires
+
+CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.provides: CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.provides.build
+.PHONY : CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.provides
+
+CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o
+
+
+CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
+CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o: ../Battle/Battle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/Battle/Battle.cpp
+
+CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/Battle/Battle.cpp > CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.i
+
+CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/Battle/Battle.cpp -o CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.s
+
+CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.requires:
+
+.PHONY : CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.requires
+
+CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.provides: CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.provides.build
+.PHONY : CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.provides
+
+CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o
+
+
+CMakeFiles/BuilderPattern.dir/State/State.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
+CMakeFiles/BuilderPattern.dir/State/State.cpp.o: ../State/State.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/BuilderPattern.dir/State/State.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/State/State.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/State/State.cpp
+
+CMakeFiles/BuilderPattern.dir/State/State.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/State/State.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/State/State.cpp > CMakeFiles/BuilderPattern.dir/State/State.cpp.i
+
+CMakeFiles/BuilderPattern.dir/State/State.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/State/State.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/State/State.cpp -o CMakeFiles/BuilderPattern.dir/State/State.cpp.s
+
+CMakeFiles/BuilderPattern.dir/State/State.cpp.o.requires:
+
+.PHONY : CMakeFiles/BuilderPattern.dir/State/State.cpp.o.requires
+
+CMakeFiles/BuilderPattern.dir/State/State.cpp.o.provides: CMakeFiles/BuilderPattern.dir/State/State.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/State.cpp.o.provides.build
+.PHONY : CMakeFiles/BuilderPattern.dir/State/State.cpp.o.provides
+
+CMakeFiles/BuilderPattern.dir/State/State.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/State/State.cpp.o
+
+
+CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
+CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o: ../State/DeathState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/State/DeathState.cpp
+
+CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/State/DeathState.cpp > CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.i
+
+CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/State/DeathState.cpp -o CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.s
+
+CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.requires:
+
+.PHONY : CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.requires
+
+CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.provides: CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.provides.build
+.PHONY : CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.provides
+
+CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o
+
+
+CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o: CMakeFiles/BuilderPattern.dir/flags.make
+CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o: ../State/PeaceState.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o -c /Users/grigorij/CLionProjects/BuilderPattern/State/PeaceState.cpp
+
+CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/grigorij/CLionProjects/BuilderPattern/State/PeaceState.cpp > CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.i
+
+CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/grigorij/CLionProjects/BuilderPattern/State/PeaceState.cpp -o CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.s
+
+CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.requires:
+
+.PHONY : CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.requires
+
+CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.provides: CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.requires
+	$(MAKE) -f CMakeFiles/BuilderPattern.dir/build.make CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.provides.build
+.PHONY : CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.provides
+
+CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.provides.build: CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o
+
+
 # Object files for target BuilderPattern
 BuilderPattern_OBJECTS = \
 "CMakeFiles/BuilderPattern.dir/main.cpp.o" \
@@ -383,7 +527,13 @@ BuilderPattern_OBJECTS = \
 "CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o" \
 "CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o" \
-"CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o"
+"CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o" \
+"CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o" \
+"CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o" \
+"CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o" \
+"CMakeFiles/BuilderPattern.dir/State/State.cpp.o" \
+"CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o" \
+"CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o"
 
 # External object files for target BuilderPattern
 BuilderPattern_EXTERNAL_OBJECTS =
@@ -401,9 +551,15 @@ BuilderPattern: CMakeFiles/BuilderPattern.dir/Types/Type.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o
+BuilderPattern: CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o
+BuilderPattern: CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o
+BuilderPattern: CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o
+BuilderPattern: CMakeFiles/BuilderPattern.dir/State/State.cpp.o
+BuilderPattern: CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o
+BuilderPattern: CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o
 BuilderPattern: CMakeFiles/BuilderPattern.dir/build.make
 BuilderPattern: CMakeFiles/BuilderPattern.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable BuilderPattern"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/grigorij/CLionProjects/BuilderPattern/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking CXX executable BuilderPattern"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BuilderPattern.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -424,6 +580,12 @@ CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Types/Type
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Types/RT.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Types/Faki.cpp.o.requires
 CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Students/Squad.cpp.o.requires
+CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/BackUp/UnitSnapshot.cpp.o.requires
+CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/BackUp/ArmySnapshot.cpp.o.requires
+CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/Battle/Battle.cpp.o.requires
+CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/State/State.cpp.o.requires
+CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/State/DeathState.cpp.o.requires
+CMakeFiles/BuilderPattern.dir/requires: CMakeFiles/BuilderPattern.dir/State/PeaceState.cpp.o.requires
 
 .PHONY : CMakeFiles/BuilderPattern.dir/requires
 

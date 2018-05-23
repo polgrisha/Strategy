@@ -14,6 +14,9 @@
 #include "../Types/RT.h"
 #include "../Types/Faki.h"
 #include "../Types/Type.h"
+#include "../State/State.h"
+#include "../State/DeathState.h"
+#include "../State/PeaceState.h"
 
 using std::shared_ptr;
 

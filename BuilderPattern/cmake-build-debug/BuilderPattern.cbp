@@ -82,6 +82,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/BackUp/ArmySnapshot.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/BackUp/ArmySnapshot.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/BackUp/UnitSnapshot.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/BackUp/UnitSnapshot.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Battle/Battle.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Battle/Battle.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
 		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Factories/FakiStudentsFactory.cpp">
 			<Option target="BuilderPattern"/>
 		</Unit>
@@ -98,6 +116,24 @@
 			<Option target="BuilderPattern"/>
 		</Unit>
 		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Factories/StudentsFactory.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/State/DeathState.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/State/DeathState.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/State/PeaceState.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/State/PeaceState.h">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/State/State.cpp">
+			<Option target="BuilderPattern"/>
+		</Unit>
+		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/State/State.h">
 			<Option target="BuilderPattern"/>
 		</Unit>
 		<Unit filename="/Users/grigorij/CLionProjects/BuilderPattern/Students.cpp">
